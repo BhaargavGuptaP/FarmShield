@@ -85,7 +85,6 @@ flutter:
     - assets/svg/
     - assets/model/model.tflite
     - assets/model/Labels.txt
-    - assets/plant_disease_model_1.pt
     - assets/disease_info.csv
     - assets/model.pt
 

@@ -1,4 +1,4 @@
-// ignore_for_file: unused_import, unused_field, prefer_const_constructors
+// ignore_for_file: unused_import, unused_field, prefer_const_constructors, must_be_immutable
 
 import 'dart:async';
 import 'dart:convert';
